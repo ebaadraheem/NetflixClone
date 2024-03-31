@@ -17,7 +17,7 @@ This is a Netflix clone created using HTML and CSS. It aims to replicate the app
 
 ## Usage
 
-To use the Netflix clone, simply open the `index.html` file in a web browser. You can navigate through the site using the provided links and buttons.
+To use the Netflix clone, simply open the `netflix.html` file in a web browser. You can navigate through the site using the provided links and buttons.
 
 ## Credits
 
